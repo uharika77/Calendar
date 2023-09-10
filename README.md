@@ -5,8 +5,11 @@ Welcome to the Calendar Project! This interactive web-based calendar allows user
 Features
 
 Date Navigation: Easily navigate between months and years using the chevron icons.
+
 Current Date: The current date is highlighted for quick reference.
+
 Responsive Design: Ensures a seamless experience on various screen sizes.
+
 Dynamic Content: The calendar is generated dynamically based on the selected month and year.
 
 #demo
