@@ -12,6 +12,5 @@ Responsive Design: Ensures a seamless experience on various screen sizes.
 
 Dynamic Content: The calendar is generated dynamically based on the selected month and year.
 
-# demo
 
 [live demo](https://uharika77.github.io/calendar/)
