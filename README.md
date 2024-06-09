@@ -1,4 +1,4 @@
-# calendar
+# Calendar
 
 Welcome to the Calendar Project! This interactive web-based calendar allows users to view and navigate through dates, making it a useful tool for scheduling and planning. It offers a simple and intuitive user interface.
 
@@ -13,4 +13,5 @@ Welcome to the Calendar Project! This interactive web-based calendar allows user
 - Dynamic Content: The calendar is generated dynamically based on the selected month and year.
 
 ## Check out demo
+
 [Click here](https://uharika77.github.io/calendar/)
